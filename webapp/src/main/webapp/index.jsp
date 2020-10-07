@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> This is Becker Version, have fun DevOpsing</h2>
 
-<h3> Happy Yppah </h3>
+<h3> Happy Running from container  </h3>
